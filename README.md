@@ -31,4 +31,4 @@ Performance:
 
 ### Conclusion
 1. The model performs better for more number of steps.
-2. For great performance thesystem needs to have higher GPU versions.
+2. Better results are achieved on higher GPU's.
