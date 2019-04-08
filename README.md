@@ -5,7 +5,7 @@ CIFAR-10 dataset is a datasaet that has 10 different classes to train neural net
 ![image](https://user-images.githubusercontent.com/35174083/55754636-269dbf80-5a1b-11e9-9a69-1a769dc30b8f.png)
 
 ## Data
-The dataset is available [Here.](https://www.cs.toronto.edu/~kriz/cifar.html). It is developed by the CS department at University of Torronto.
+The dataset is available [Here.](https://www.cs.toronto.edu/~kriz/cifar.html) It is developed by the CS department at University of Torronto.
 
 ## Analysis Performed
 ### Objective
